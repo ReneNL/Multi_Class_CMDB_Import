@@ -5,9 +5,7 @@
         <element attributes="edge_encryption_enabled=true" label="Host name" max_length="255" name="u_host_name" type="string"/>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Name" max_length="255" name="u_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Resolution Units" max_length="40" name="u_resolution_units" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="row" max_length="40" name="u_row" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Serial number" max_length="255" name="u_serial_number" type="string"/>
         <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="cmdb_ci" label="Class" mandatory="true" max_length="80" name="u_sys_class_name" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="test_goal" max_length="40" name="u_test_goal" type="string"/>
     </element>
 </database>

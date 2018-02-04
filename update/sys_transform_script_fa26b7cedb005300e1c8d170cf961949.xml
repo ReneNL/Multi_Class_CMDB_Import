@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Multi class CMDB import">6866c906dbc81300e1c8d170cf9619ec</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target ) {
+	// Add your code here
+
+	// u_sys_class_name holds the desired target CI class
+	var gr_real_target = new GlideRecord(source.u_sys_class_name);
+	target.comments = target.comments + "; " + source.sys_import_row + ": " + source.sys_target_sys_id;
+	target.update();
+	
+	gr_real_target.addQuery("sys_id", source.sys_target_sys_id);
+	gr_real_target.query();
+	
+	if (gr_real_target.next()) {
+		// a target record in desired CI class is available
+		
+		// when value is given process that value
+		if (source.u_host_name != "") {
+			target.comments = target.comments + "; host name";
+			gr_real_target.host_name = source.u_host_name;
+			// might give error when target CI class doesn't contain that field
+		}
+		if (source.u_resolution_units != "") {
+			target.comments = target.comments + "; resolution units";
+			gr_real_target.resolution_units = source.u_resolution_units;
+			// might give error when target CI class doesn't contain that field
+		}
+		
+		// write above modifications
+		gr_real_target.update();
+	}
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>ADM.RWS</sys_created_by>
+        <sys_created_on>2018-02-04 21:29:44</sys_created_on>
+        <sys_id>fa26b7cedb005300e1c8d170cf961949</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>onAfter</sys_name>
+        <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
+        <sys_update_name>sys_transform_script_fa26b7cedb005300e1c8d170cf961949</sys_update_name>
+        <sys_updated_by>ADM.RWS</sys_updated_by>
+        <sys_updated_on>2018-02-04 21:46:08</sys_updated_on>
+        <when>onAfter</when>
+    </sys_transform_script>
+</record_update>

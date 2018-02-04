@@ -7,25 +7,25 @@
         <name>Multi class CMDB import</name>
         <order>100</order>
         <run_business_rules>true</run_business_rules>
-        <run_script>false</run_script>
+        <run_script>true</run_script>
         <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
 
 	// Add your code here
-
+	
 })(source, target, map, log, action==="update");]]></script>
         <source_table>x_183176_cmdb_imp_multi_class_cmdb_import</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>ADM.RWS</sys_created_by>
         <sys_created_on>2018-02-04 08:42:18</sys_created_on>
         <sys_id>6866c906dbc81300e1c8d170cf9619ec</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Multi class CMDB import</sys_name>
         <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
         <sys_policy/>
         <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
         <sys_update_name>sys_transform_map_6866c906dbc81300e1c8d170cf9619ec</sys_update_name>
         <sys_updated_by>ADM.RWS</sys_updated_by>
-        <sys_updated_on>2018-02-04 08:42:18</sys_updated_on>
+        <sys_updated_on>2018-02-04 21:33:09</sys_updated_on>
         <target_table>cmdb_ci</target_table>
     </sys_transform_map>
 </record_update>
