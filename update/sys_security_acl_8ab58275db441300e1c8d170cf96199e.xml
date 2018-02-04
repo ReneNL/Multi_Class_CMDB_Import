@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_183176_cmdb_imp_multi_class_cmdb_import</description>
+        <name>x_183176_cmdb_imp_multi_class_cmdb_import</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ADM.RWS</sys_created_by>
+        <sys_created_on>2018-02-03 18:38:36</sys_created_on>
+        <sys_id>8ab58275db441300e1c8d170cf96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_183176_cmdb_imp_multi_class_cmdb_import</sys_name>
+        <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
+        <sys_update_name>sys_security_acl_8ab58275db441300e1c8d170cf96199e</sys_update_name>
+        <sys_updated_by>ADM.RWS</sys_updated_by>
+        <sys_updated_on>2018-02-03 18:38:36</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

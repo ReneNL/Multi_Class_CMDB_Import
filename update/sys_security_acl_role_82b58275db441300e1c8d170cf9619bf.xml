@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ADM.RWS</sys_created_by>
+        <sys_created_on>2018-02-03 18:38:36</sys_created_on>
+        <sys_id>82b58275db441300e1c8d170cf9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_183176_cmdb_imp_multi_class_cmdb_import.x_183176_cmdb_imp.multi_class_cmdb_import_user</sys_name>
+        <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
+        <sys_security_acl display_value="x_183176_cmdb_imp_multi_class_cmdb_import">8ab58275db441300e1c8d170cf9619bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_82b58275db441300e1c8d170cf9619bf</sys_update_name>
+        <sys_updated_by>ADM.RWS</sys_updated_by>
+        <sys_updated_on>2018-02-03 18:38:36</sys_updated_on>
+        <sys_user_role display_value="x_183176_cmdb_imp.multi_class_cmdb_import_user" name="x_183176_cmdb_imp.multi_class_cmdb_import_user">bfa30275db041300e1c8d170cf961902</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
