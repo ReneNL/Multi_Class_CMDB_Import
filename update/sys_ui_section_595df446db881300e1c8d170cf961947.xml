@@ -4,302 +4,758 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>dd15cdc2dbc81300e1c8d170cf9619fa</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>bd4e864edb301300e1c8d170cf9619f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <text>From here in alphabetical order (mixed CI classes)</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <text>Import table information</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>d115cdc2dbc81300e1c8d170cf9619fb</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>b14e864edb301300e1c8d170cf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <text/>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <text>cmdb fields</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>b54e864edb301300e1c8d170cf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <text>cmdb_ci_server fields</text>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>b94e864edb301300e1c8d170cf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <text>cmdb_ci_printer fileds</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_sys_class_name</element>
             <position>0</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9515cdc2dbc81300e1c8d170cf9619fb</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619f5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_company</element>
+            <position>1</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_name</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1915cdc2dbc81300e1c8d170cf9619fb</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_serial_number</element>
-            <position>2</position>
-            <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9915cdc2dbc81300e1c8d170cf9619fb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
-            <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>dd15cdc2dbc81300e1c8d170cf9619fa</element>
             <position>3</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1d15cdc2dbc81300e1c8d170cf9619fb</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
-            <type>annotation</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_asset_tag</element>
+            <element>bd4e864edb301300e1c8d170cf9619f4</element>
             <position>4</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9d15cdc2dbc81300e1c8d170cf9619fb</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_host_name</element>
-            <position>5</position>
-            <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1115cdc2dbc81300e1c8d170cf9619fc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
-            <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_resolution_units</element>
-            <position>6</position>
-            <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9115cdc2dbc81300e1c8d170cf9619fc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
-            <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>d115cdc2dbc81300e1c8d170cf9619fb</element>
-            <position>7</position>
-            <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1515cdc2dbc81300e1c8d170cf9619fc</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
-            <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_import_set</element>
-            <position>8</position>
+            <position>5</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9515cdc2dbc81300e1c8d170cf9619fc</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>import_set_run</element>
-            <position>9</position>
+            <position>6</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1915cdc2dbc81300e1c8d170cf9619fc</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_import_row</element>
-            <position>10</position>
+            <position>7</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9915cdc2dbc81300e1c8d170cf9619fc</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_import_state</element>
-            <position>11</position>
+            <position>8</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1d15cdc2dbc81300e1c8d170cf9619fc</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_row_error</element>
-            <position>12</position>
+            <position>9</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9d15cdc2dbc81300e1c8d170cf9619fc</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_import_state_comment</element>
-            <position>13</position>
+            <position>10</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1115cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>template_import_log</element>
-            <position>14</position>
-            <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9115cdc2dbc81300e1c8d170cf9619fd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
-            <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_target_sys_id</element>
-            <position>15</position>
+            <position>11</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1515cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_target_table</element>
-            <position>16</position>
+            <position>12</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9515cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log</element>
+            <position>13</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_transform_map</element>
-            <position>17</position>
+            <position>14</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1915cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>18</position>
+            <position>15</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>9915cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
-            <position>19</position>
+            <position>16</position>
             <sys_created_by>ADM.RWS</sys_created_by>
-            <sys_created_on>2018-02-04 08:34:41</sys_created_on>
-            <sys_id>1d15cdc2dbc81300e1c8d170cf9619fd</sys_id>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
             <sys_updated_by>ADM.RWS</sys_updated_by>
-            <sys_updated_on>2018-02-04 08:34:41</sys_updated_on>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b14e864edb301300e1c8d170cf9619f5</element>
+            <position>17</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset_tag</element>
+            <position>18</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assigned</element>
+            <position>19</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assigned_to</element>
+            <position>20</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assignement_group</element>
+            <position>21</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_checked_in</element>
+            <position>22</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_checked_out</element>
+            <position>23</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cost</element>
+            <position>24</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cost_txt</element>
+            <position>25</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cost_cc</element>
+            <position>26</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_cost_center</element>
+            <position>27</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_department</element>
+            <position>28</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due</element>
+            <position>29</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_due_in</element>
+            <position>30</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gl_account</element>
+            <position>31</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_install_date</element>
+            <position>32</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_invoice_number</element>
+            <position>33</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lease_id</element>
+            <position>34</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_managed_by</element>
+            <position>35</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_delivery_date</element>
+            <position>36</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_order_date</element>
+            <position>37</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_owned_by</element>
+            <position>38</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_po_number</element>
+            <position>39</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_purchase_date</element>
+            <position>40</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_skip_sync</element>
+            <position>41</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_skip_sync_txt</element>
+            <position>42</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_install_status</element>
+            <position>43</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f14e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_supported_by</element>
+            <position>44</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>754e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_support_group</element>
+            <position>45</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f54e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_warranty_expiration</element>
+            <position>46</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>794e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b54e864edb301300e1c8d170cf9619f5</element>
+            <position>47</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>f94e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_host_name</element>
+            <position>48</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>7d4e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>b94e864edb301300e1c8d170cf9619f5</element>
+            <position>49</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>fd4e864edb301300e1c8d170cf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_resolution_units</element>
+            <position>50</position>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-03-13 20:41:33</sys_created_on>
+            <sys_id>714e864edb301300e1c8d170cf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_183176_cmdb_imp_multi_class_cmdb_import" sys_domain="global" view="Default view">595df446db881300e1c8d170cf961947</sys_ui_section>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-03-13 20:41:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

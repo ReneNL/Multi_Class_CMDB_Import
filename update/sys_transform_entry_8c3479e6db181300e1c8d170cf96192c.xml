@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_transform_entry">
     <sys_transform_entry action="INSERT_OR_UPDATE">
-        <choice_action>reject</choice_action>
+        <choice_action>ignore</choice_action>
         <coalesce>false</coalesce>
         <coalesce_case_sensitive>false</coalesce_case_sensitive>
         <coalesce_empty_fields>false</coalesce_empty_fields>
         <date_format>yyyy-MM-dd HH:mm:ss</date_format>
         <map display_value="Multi class CMDB import">6866c906dbc81300e1c8d170cf9619ec</map>
         <reference_value_field/>
-        <source_field>u_sys_class_name</source_field>
+        <source_field>u_invoice_number</source_field>
         <source_script><![CDATA[answer = (function transformEntry(source) {
 
 	// Add your code here
@@ -18,17 +18,17 @@
         <source_table>x_183176_cmdb_imp_multi_class_cmdb_import</source_table>
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>ADM.RWS</sys_created_by>
-        <sys_created_on>2018-02-04 08:44:06</sys_created_on>
-        <sys_id>6917c146dbc81300e1c8d170cf96196d</sys_id>
+        <sys_created_on>2018-02-18 11:33:39</sys_created_on>
+        <sys_id>8c3479e6db181300e1c8d170cf96192c</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>u_sys_class_name</sys_name>
+        <sys_name>u_invoice_number</sys_name>
         <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
         <sys_policy/>
         <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
-        <sys_update_name>sys_transform_entry_6917c146dbc81300e1c8d170cf96196d</sys_update_name>
+        <sys_update_name>sys_transform_entry_8c3479e6db181300e1c8d170cf96192c</sys_update_name>
         <sys_updated_by>ADM.RWS</sys_updated_by>
-        <sys_updated_on>2018-02-18 16:18:20</sys_updated_on>
-        <target_field>sys_class_name</target_field>
+        <sys_updated_on>2018-02-18 16:44:29</sys_updated_on>
+        <target_field>invoice_number</target_field>
         <target_table>cmdb_ci</target_table>
         <use_source_script>false</use_source_script>
     </sys_transform_entry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_skip_sync" label="Skip sync" language="en" table="x_183176_cmdb_imp_multi_class_cmdb_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_skip_sync</element>
+            <help/>
+            <hint/>
+            <label>Skip sync</label>
+            <language>en</language>
+            <name>x_183176_cmdb_imp_multi_class_cmdb_import</name>
+            <plural>Skip syncs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ADM.RWS</sys_created_by>
+            <sys_created_on>2018-02-17 17:24:41</sys_created_on>
+            <sys_id>330b751edb101300e1c8d170cf9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Skip sync</sys_name>
+            <sys_package display_value="Multi_Class_CMDB_Import" source="x_183176_cmdb_imp">aa924e71db441300e1c8d170cf9619af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Multi_Class_CMDB_Import">aa924e71db441300e1c8d170cf9619af</sys_scope>
+            <sys_update_name>sys_documentation_x_183176_cmdb_imp_multi_class_cmdb_import_u_skip_sync_en</sys_update_name>
+            <sys_updated_by>ADM.RWS</sys_updated_by>
+            <sys_updated_on>2018-02-17 17:24:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
